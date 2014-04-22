@@ -11,7 +11,7 @@ import javax.swing.Timer;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.logic.parser.IHistoryAnalyzer;
 import de.neuenberger.pokerprofiler.logic.parser.ParserPool;
 import de.neuenberger.pokerprofiler.model.GameDescription;

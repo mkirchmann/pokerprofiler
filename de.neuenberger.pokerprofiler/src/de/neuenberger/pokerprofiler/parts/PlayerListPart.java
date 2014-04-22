@@ -9,7 +9,7 @@ import java.awt.event.KeyListener;
 
 import javax.swing.JOptionPane;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.logic.parser.ParserPool;
 import de.neuenberger.pokerprofiler.model.PlayerDescription;
 import de.neuenberger.pokerprofiler.model.PlayerDescriptionList;

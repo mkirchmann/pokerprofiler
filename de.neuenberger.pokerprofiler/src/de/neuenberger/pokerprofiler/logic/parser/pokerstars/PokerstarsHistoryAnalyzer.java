@@ -2,9 +2,9 @@ package de.neuenberger.pokerprofiler.logic.parser.pokerstars;
 
 import java.io.File;
 
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.model.Deck;
-import de.neuenberger.pokercalc.model.util.CardUtils;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.model.Deck;
+import de.neuenberger.poker.common.model.util.CardUtils;
 import de.neuenberger.pokerprofiler.logic.analyzer.GameDescriptionLogic;
 import de.neuenberger.pokerprofiler.logic.analyzer.GamePlayLogic;
 import de.neuenberger.pokerprofiler.logic.parser.AnalysisState;

@@ -1,6 +1,6 @@
 package de.neuenberger.pokerprofiler.logic.analyzer;
 
-import de.neuenberger.pokercalc.model.Card;
+import de.neuenberger.poker.common.model.Card;
 
 public class CardLogic extends BaseLogic {
 	public static boolean isAx(Card card[]) {

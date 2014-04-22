@@ -6,8 +6,8 @@ import org.w3c.dom.Element;
 
 import sun.misc.Compare;
 import sun.misc.Sort;
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.model.Deck;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.model.Deck;
 import de.neuenberger.pokerprofiler.logic.parser.BaseXMLHistoryAnalyzer;
 import de.neuenberger.pokerprofiler.model.Bet;
 import de.neuenberger.pokerprofiler.model.GamePlay;

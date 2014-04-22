@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.PokerProfiler;
 
 public class StatusPart implements IController, ActionListener {

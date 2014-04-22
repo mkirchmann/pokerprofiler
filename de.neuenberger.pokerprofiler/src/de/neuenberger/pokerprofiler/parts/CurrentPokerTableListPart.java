@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.model.GameDescription;
 import de.neuenberger.pokerprofiler.model.PokerTableDescription;
 import de.neuenberger.pokerprofiler.model.PokerTableDescriptionChangeList;

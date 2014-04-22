@@ -8,7 +8,7 @@ import javax.swing.JComponent;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.logic.analyzer.BaseLogic;
 import de.neuenberger.pokerprofiler.logic.analyzer.PlayerDescriptionLogic;
 import de.neuenberger.pokerprofiler.model.PlayerDescription;

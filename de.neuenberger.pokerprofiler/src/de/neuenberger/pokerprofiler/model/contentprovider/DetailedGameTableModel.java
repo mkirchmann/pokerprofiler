@@ -4,7 +4,7 @@ import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.DefaultTableModel;
 
-import de.neuenberger.pokercalc.model.Card;
+import de.neuenberger.poker.common.model.Card;
 import de.neuenberger.pokerprofiler.logic.analyzer.BetLogic;
 import de.neuenberger.pokerprofiler.logic.analyzer.GamePlayLogic;
 import de.neuenberger.pokerprofiler.model.GameDescription;

@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.logic.analyzer.PlayerDescriptionLogic;
 import de.neuenberger.pokerprofiler.model.GamePlay;
 import de.neuenberger.pokerprofiler.model.PlayerDescription;

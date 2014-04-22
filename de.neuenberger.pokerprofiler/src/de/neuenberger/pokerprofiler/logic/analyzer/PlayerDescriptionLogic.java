@@ -1,9 +1,9 @@
 package de.neuenberger.pokerprofiler.logic.analyzer;
 
-import de.neuenberger.pokercalc.logic.HandRank;
-import de.neuenberger.pokercalc.logic.HandRankFactory;
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.model.TexasHoldem;
+import de.neuenberger.poker.common.logic.HandRank;
+import de.neuenberger.poker.common.logic.HandRankFactory;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.model.TexasHoldem;
 import de.neuenberger.pokerprofiler.model.Bet;
 import de.neuenberger.pokerprofiler.model.GamePlay;
 import de.neuenberger.pokerprofiler.model.PlayerDescription;

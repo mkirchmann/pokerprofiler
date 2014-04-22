@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 import javax.swing.JWindow;
 import javax.swing.border.LineBorder;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.model.PlayerDescription;
 import de.neuenberger.pokerprofiler.ui.hud.PopupWindow;
 

@@ -13,7 +13,7 @@ import java.util.Vector;
 
 import javax.swing.JWindow;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.model.GameDescription;
 import de.neuenberger.pokerprofiler.model.GamePlay;
 import de.neuenberger.pokerprofiler.model.PokerTableDescription;

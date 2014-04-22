@@ -2,7 +2,7 @@ package de.neuenberger.pokerprofiler.model;
 
 import java.util.Vector;
 
-import de.neuenberger.pokercalc.model.Card;
+import de.neuenberger.poker.common.model.Card;
 
 
 public class GamePlay {

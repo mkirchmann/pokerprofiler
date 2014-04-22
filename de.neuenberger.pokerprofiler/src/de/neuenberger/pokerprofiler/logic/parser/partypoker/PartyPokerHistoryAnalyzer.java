@@ -2,8 +2,8 @@ package de.neuenberger.pokerprofiler.logic.parser.partypoker;
 
 import java.io.File;
 
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.model.Deck;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.model.Deck;
 import de.neuenberger.pokerprofiler.logic.parser.AnalysisState;
 import de.neuenberger.pokerprofiler.logic.parser.BaseAsciiHistoryAnalyzer;
 import de.neuenberger.pokerprofiler.model.Bet;

@@ -7,8 +7,8 @@ import javax.swing.JPanel;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.ui.util.CardLabelSmall;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.ui.util.CardLabelSmall;
 
 public class CardArrayRenderer extends DefaultTableCellRenderer {
 

@@ -8,8 +8,8 @@ import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 
-import de.neuenberger.pokercalc.model.Card;
-import de.neuenberger.pokercalc.model.util.CardUtils;
+import de.neuenberger.poker.common.model.Card;
+import de.neuenberger.poker.common.model.util.CardUtils;
 import de.neuenberger.pokerprofiler.logic.analyzer.GamePlayLogic;
 import de.neuenberger.pokerprofiler.model.ChangeListenerFarm;
 import de.neuenberger.pokerprofiler.model.GamePlay;

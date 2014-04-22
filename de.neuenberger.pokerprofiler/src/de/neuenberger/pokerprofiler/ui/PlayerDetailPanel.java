@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-import de.neuenberger.pokercalc.model.Card;
+import de.neuenberger.poker.common.model.Card;
 import de.neuenberger.pokerprofiler.ui.tablerenderer.CardArrayRenderer;
 
 public class PlayerDetailPanel extends JPanel {

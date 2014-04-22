@@ -1,6 +1,6 @@
 package de.neuenberger.pokerprofiler.logic.analyzer;
 
-import de.neuenberger.pokercalc.logic.HandRank;
+import de.neuenberger.poker.common.logic.HandRank;
 import de.neuenberger.pokerprofiler.model.PlayerShowDownSummary;
 
 public class PlayerShowDownSummaryLogic extends BaseLogic {

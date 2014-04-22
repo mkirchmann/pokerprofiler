@@ -11,7 +11,7 @@ import javax.swing.JTable;
 import javax.swing.JToolBar;
 import javax.swing.table.DefaultTableCellRenderer;
 
-import de.neuenberger.pokercalc.model.Card;
+import de.neuenberger.poker.common.model.Card;
 import de.neuenberger.pokerprofiler.ui.tablerenderer.CardArrayRenderer;
 import de.neuenberger.pokerprofiler.ui.tablerenderer.FloatRenderer;
 

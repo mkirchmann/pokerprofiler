@@ -4,7 +4,7 @@ import java.awt.Component;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import de.neuenberger.pokercalc.parts.IController;
+import de.neuenberger.poker.common.parts.IController;
 import de.neuenberger.pokerprofiler.logic.analyzer.BaseLogic;
 import de.neuenberger.pokerprofiler.logic.analyzer.PokerTableDescriptionLogic;
 import de.neuenberger.pokerprofiler.model.GameDescription;
